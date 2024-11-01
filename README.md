@@ -1,4 +1,4 @@
-![Admin Dashboard Preview]("./admin.png")
+![Admin Dashboard Preview]("./image1.png")
 
 # eCommerce Admin Dashboard
 
