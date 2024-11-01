@@ -1,10 +1,8 @@
+![Admin Dashboard Preview]("./admin.png")
+
 # eCommerce Admin Dashboard
 
 This is a **React-based eCommerce Admin Dashboard** designed to streamline the management of an online store. The dashboard provides admins with tools to monitor and analyze key business metrics, such as **profit analysis** through interactive charts, as well as features for managing products, orders, and customers.
-
-## Preview
-
-![Admin Dashboard Preview]("./admin.png")
 
 ## Features
 
