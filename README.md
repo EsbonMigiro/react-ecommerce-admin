@@ -4,7 +4,7 @@ This is a **React-based eCommerce Admin Dashboard** designed to streamline the m
 
 ## Preview
 
-![Admin Dashboard Preview]("./image.png")
+![Admin Dashboard Preview]("image.png")
 
 ## Features
 
@@ -22,7 +22,7 @@ To get started with the eCommerce Admin Dashboard, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/EsbonMigiro/react-ecommerce-admin
    ```
 
 2. Navigate into the project directory:
