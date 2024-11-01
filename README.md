@@ -4,7 +4,7 @@ This is a **React-based eCommerce Admin Dashboard** designed to streamline the m
 
 ## Preview
 
-![Admin Dashboard Preview]("image.png")
+![Admin Dashboard Preview]("./admin.png")
 
 ## Features
 
